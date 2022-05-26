@@ -17,7 +17,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="RU"/>
     <property name="sun.boot.library.path" value="C:\Users\Saler\.jdks\corretto-11.0.15\bin"/>
-    <property name="sun.java.command" value="C:\Users\Saler\AppData\Local\Temp\surefire1159260494631541910\surefirebooter8462899871797416203.jar C:\Users\Saler\AppData\Local\Temp\surefire1159260494631541910 2022-05-26T17-42-37_267-jvmRun1 surefire16446596662867377838tmp surefire_01291315034527484128tmp"/>
+    <property name="sun.java.command" value="C:\Users\Saler\AppData\Local\Temp\surefire15491303082798609879\surefirebooter2460123833591173908.jar C:\Users\Saler\AppData\Local\Temp\surefire15491303082798609879 2022-05-26T18-26-59_970-jvmRun1 surefire17858253015167877856tmp surefire_015253634574335930735tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\Saler\IdeaProjects\dz7\target\test-classes;C:\Users\Saler\IdeaProjects\dz7\target\classes;C:\Users\Saler\.m2\repository\org\junit\jupiter\junit-jupiter\5.7.0\junit-jupiter-5.7.0.jar;C:\Users\Saler\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.7.0\junit-jupiter-api-5.7.0.jar;C:\Users\Saler\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\Saler\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Saler\.m2\repository\org\junit\platform\junit-platform-commons\1.7.0\junit-platform-commons-1.7.0.jar;C:\Users\Saler\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.7.0\junit-jupiter-params-5.7.0.jar;C:\Users\Saler\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.7.0\junit-jupiter-engine-5.7.0.jar;C:\Users\Saler\.m2\repository\org\junit\platform\junit-platform-engine\1.7.0\junit-platform-engine-1.7.0.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -33,7 +33,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\Saler\AppData\Local\Temp\surefire1159260494631541910\surefirebooter8462899871797416203.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Saler\AppData\Local\Temp\surefire15491303082798609879\surefirebooter2460123833591173908.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.15+9-LTS"/>
@@ -61,6 +61,6 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="55.0"/>
   </properties>
-  <testcase name="findMax" classname="ru.netology.statistic.StatisticsServiceTest" time="0.047"/>
+  <testcase name="findMax" classname="ru.netology.statistic.StatisticsServiceTest" time="0.032"/>
   <testcase name="findMaxOver12" classname="ru.netology.statistic.StatisticsServiceTest" time="0"/>
 </testsuite>
